@@ -1,0 +1,35 @@
+notes-and-ideas_kraken.otl
+Last modified: Sat May 05, 2018  02:56PM
+--------------------------------------------------------------------------------
+
+For B&N Nook:
+Have to do a verion with .png cover.
+	Export .png from gimp file. Save in cover dir. Change Makefile to reflect this cover.
+	Recompile.
+
+
+Notes for 2nd ed revision
+----------------------------------------
+I think I need to put a > in front of every line of a dialog line to
+make it stand out in the ebook, not just the first of each dialog graph.
+
+Remove . from end of first line of Tennyson quote.
+
+
+
+
+
+Title ideas:
+----------------------------------------
+The Kraken of Dawn
+Where the Kraken Lays
+Kraken it open
+Molust
+The Depths of Desire
+The Squid and The Sub
+The Depths
+In for a penny, in for a squid
+
+
+
+
