@@ -1,5 +1,5 @@
 README.md
-Last modified: Mon Oct 26, 2020  06:17PM
+Last modified: Mon Oct 26, 2020  11:03PM
 
 # Kraken — When lust comes up against science a mile under the ocean
 * By A. Andiron
@@ -9,6 +9,8 @@ Last modified: Mon Oct 26, 2020  06:17PM
 	* https://www.amazon.com/Kraken-Andiron-ebook/dp/B079692PPJ
 * Or, compile from this source code using pandoc.
 	* (Or just read the markdown, available in source.) 
+* Or, read it on Medium:
+	* https://medium.com/@a.andiron/kraken-aaa9991f52ad
 
 ## Compilation notes:
 * Compiled using pandoc-ebook-template. For instructions see:
@@ -22,6 +24,8 @@ Last modified: Mon Oct 26, 2020  06:17PM
 	* https://github.com/evangoer/pandoc-ebook-template
 * Standing book template for cover from covervault:
 	* https://covervault.com/tag/square/
+* Pushed to Medium with mdium:
+	* https://github.com/icyphox/mdium
 
 ## License:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
