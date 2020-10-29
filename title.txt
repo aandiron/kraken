@@ -9,7 +9,6 @@ documentclass:
     - article
 header-includes:
     - \usepackage{hyperref}
-    - \renewcommand*{\titlepagestyle}{empty}
 #    - \usepackage[margin=0.8in]{geometry}
 # above line give Word-like wide text
 ...
